@@ -28,24 +28,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="RTM" ch-number="RTMK06" tvg-id="RTMK06" tvg-chno="RTMK06" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV6.jpg",TV6 [HLS]
-https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv6/DASH/tv6.mpd
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="RTM" ch-number="RTMK07" tvg-id="RTMK07" tvg-chno="RTMK07" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/Dewan%20Rakyat.jpg",Dewan Rakyat [HLS]
-https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="RTM" ch-number="RTMK08" tvg-id="RTMK08" tvg-chno="RTMK08" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/Dewan%20Negara.jpg",Dewan Negara [HLS]
-https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
-
-
 ############################## MALAYSIA#############################################
 
 #EXTINF:-1 group-logo="https://iili.io/CN3tDy7.png"
